@@ -31,4 +31,4 @@ jobs:
         uses: actions/deploy-pages@v1
         with:
           branch: gh-pages
-          folder: build
+          folder: out
